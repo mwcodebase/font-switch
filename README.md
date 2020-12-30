@@ -1,20 +1,12 @@
-# {PROJECT_NAME}
+# Font Switch
 
-Provide a brief description of the project here.
+Chrome extension for changing the font used on webpages. Primarily meant to support dyslexic users. There are several pre-existing extensions with the same (and more) functionality, but this is also a development excercise for myself.
 
-## Getting started
+## Using Font Switch
 
-### Dependencies/Prerequisites
+Start by install the chrome extension here: link
 
-List anything the user needs to install before they can use the project here.
-
-### Installation/Setup
-
-Detail the steps required to be able to use the project here.
-
-### Using {PROJECT_NAME}
-
-Walkthrough how to use the project, once setup is complete, here.
+Explanation of how to use the extension goes here.
 
 ## FAQ
 
@@ -22,8 +14,20 @@ If you have any questions or issues, you might find a solution in the [FAQ](FAQ.
 
 ## Contributing
 
-If you would like to contribute to {PROJECT_NAME}, please see how in [CONTRIBUTING](CONTRIBUTING.md)
+If you would like to contribute to Font Switch, please see how in [CONTRIBUTING](CONTRIBUTING.md)
 
 ## License
 
 This project is licensed under the terms of the [MIT license](LICENSE.txt).
+
+## Related works
+
+As mentioned, there are other pre-existing solutions to this same problem. Here are some highly rated extensions (at time of publishing) to check out if you are intrigued by Font Switch:
+
+1. [Font Swap](https://chrome.google.com/webstore/detail/font-swap-for-google-font/onhgmcpflfncjkdbclmhnfondmindgbg)
+2. [Font Changer Plus](https://chrome.google.com/webstore/detail/font-changer-plus/ameggholdkgkdepolbiaekmhjiaiiccg?hl=en-US)
+3. [Helperbird](https://chrome.google.com/webstore/detail/helperbird-accessibility/ahmapmilbkfamljbpgphfndeemhnajme?hl=en)
+
+All accessibility chrome extensions: [chrome web store](https://chrome.google.com/webstore/category/ext/22-accessibility)
+
+Credit to the creators of the OpenDyslexic font: https://opendyslexic.org/ 
