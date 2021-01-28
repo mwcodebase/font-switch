@@ -1,3 +1,7 @@
 # FAQ
 
-Answer any questions that users have (or might have) here.
+What is the default font the extension uses?
+- Verdana.
+
+Why did you chose the Verdana font?
+- It was specifically designed to be easy to read.
