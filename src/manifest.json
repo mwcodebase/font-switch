@@ -6,7 +6,8 @@
   "description": "Allows user to change webpage font. For readability or comdeic purposes.",
   
   "content_scripts": [{
-    "css": ["styles.css"]
+    "css": ["styles.css"],
+    "matches": ["<all_urls>"]
   }],
   
   "page_action": {
