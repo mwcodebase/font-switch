@@ -12,14 +12,14 @@
     "default_icon": {
       "16": "images/switch_icon16.png",
       "32": "images/switch_icon32.png",
-      "48": "images/switch_icon48.png",
+      "64": "images/switch_icon64.png",
       "128": "images/switch_icon128.png"
     }
   },
   "icons": {
     "16": "images/switch_icon16.png",
     "32": "images/switch_icon32.png",
-    "48": "images/switch_icon48.png",
+    "64": "images/switch_icon64.png",
     "128": "images/switch_icon128.png"
   },
   "manifest_version": 2
