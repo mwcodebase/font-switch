@@ -6,9 +6,7 @@
   "description": "Allows user to change webpage font. For readability or comdeic purposes.",
   
   "content_scripts": [{
-    "css": ["styles.css"],
-    "js": ["content.js"],
-    "matches": ["https://blog.lateral.io/*"]
+    "css": ["styles.css"]
   }],
   
   "page_action": {
