@@ -20,6 +20,10 @@ If you would like to contribute to Font Switch, please see how in [CONTRIBUTING]
 
 This project is licensed under the terms of the [MIT license](LICENSE.txt).
 
+## Credits
+
+Icon art created by smashicons on favicon: https://www.flaticon.com/authors/smashicons
+
 ## Related works
 
 As mentioned, there are other pre-existing solutions to this same problem. Here are some highly rated extensions (at time of publishing) to check out if you are intrigued by Font Switch:
